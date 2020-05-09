@@ -1,0 +1,2 @@
+rootProject.name='AllChat'
+include ':app'
