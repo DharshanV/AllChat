@@ -28,7 +28,7 @@
             android:text="Register"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/registerButton"
+            android:id="@+id/registerButtonReg"
             android:layout_below="@id/passwordPlainTextReg"
     />
 
